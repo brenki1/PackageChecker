@@ -8,7 +8,9 @@ Pode ser usado para outros propósitos que envolvem comparar dois arquivos de te
 
 Se quiser, crie um diretório para guardar o arquivo .txt dos pacotes
 
-**Ex:** `cd Documentos` `mkdir listapkgs` `cd listapkgs`
+**Ex:** $`cd Documentos` 
+$`mkdir listapkgs` 
+$`cd listapkgs`
 
 **Após escolher o diretório, digite** `pacman -Qqe > pkglist.txt` que criará um arquivo de texto ***pkglist*** no diretório selecionado, com todos os pacotes instalados explicitamente, incluindo pacotes AUR.
 
