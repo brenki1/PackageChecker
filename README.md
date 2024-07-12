@@ -1,6 +1,6 @@
 # PackageChecker
 
-Programa simples em C feito para uso pessoal. Compara dois arquivos de texto que listam pacotes instalados pelo pacman, e indica a diferença entre os dois, útil para novas instalações ou após uma formatação.
+Programa simples em C para uso pessoal. Compara dois arquivos de texto que listam pacotes instalados pelo pacman, e indica a diferença entre os dois, útil para novas instalações ou após uma formatação.
 
 Pode ser usado para outros propósitos que envolvem comparar dois arquivos de texto que possuem uma lista.
 
